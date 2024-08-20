@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/rignanes/rignanes-2024-8-21-9-16-16/:/
+ - /content/rignanes/rignanes-2024-8-21-9-16-16/metadata.json:/metadata.json
+ - /content/rignanes/rignanes-2024-8-21-9-16-16/redirects.json:/redirects.json
